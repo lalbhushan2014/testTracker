@@ -1,0 +1,11 @@
+{
+  "name": "tasktracker",
+  "version": "1.0.0",
+  "description": "Task tracker is a project used to track and manage your tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
